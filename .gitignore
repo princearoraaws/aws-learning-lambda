@@ -1,0 +1,10 @@
+/.metadata/
+*.jar
+*.class
+*.prefs
+*.lst
+*.MF
+photo-app-users-api/target/classes/META-INF/maven/com.example/photo-app-users-api/pom.properties
+photo-app-users-api/target/classes/META-INF/maven/com.example/photo-app-users-api/pom.xml
+photo-app-users-api/target/maven-archiver/pom.properties
+RemoteSystemsTempFiles/.project
