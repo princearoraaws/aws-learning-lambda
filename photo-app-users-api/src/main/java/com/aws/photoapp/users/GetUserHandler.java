@@ -20,7 +20,7 @@ public class GetUserHandler implements RequestHandler<APIGatewayProxyRequestEven
 		
 		JsonObject returnValue = new JsonObject();
 		returnValue.addProperty("firstName", "Prince");
-		returnValue.addProperty("lastName", "Prince");
+		returnValue.addProperty("lastName", "Arora");
 		returnValue.addProperty("id", userid);
 		
 		APIGatewayProxyResponseEvent response = new APIGatewayProxyResponseEvent();
